@@ -54,12 +54,12 @@ tweeter:
 ```
 
 ### Testing
-Application tests are located in the package `src\test\java\com\kiran\tweetboot`
+Application tests are located in the package `src\test\java\com\aniket\tweetboot`
 
 - Run tests easily with IDE ( For [Intellij](https://stackoverflow.com/a/28443830/9004116) and [Eclipse](https://www.toolsqa.com/java/junit-framework/running-junit-tests-eclipse/) )
 
 ### Run
-There are several ways to run a Spring Boot application on your local machine. One way is to execute the `main` method in the `src\main\java\com\kiran\tweetboot\TweetbootApplication.java` class from your IDE
+There are several ways to run a Spring Boot application on your local machine. One way is to execute the `main` method in the `src\main\java\com\aniket\tweetboot\TweetbootApplication.java` class from your IDE
 
 Run Spring Boot App with Gradle
 ```
